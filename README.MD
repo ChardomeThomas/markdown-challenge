@@ -5,8 +5,8 @@
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
 "Me, in one sentence" (as a smaller header)
-
-| ------------- |:-------------:|
+| First Header  | Second Header |
+| ------------- | ------------- |
 | Birthday     | 28/06 |
 | Favorite color      | Blue      |
 | Favorite food | none      |
