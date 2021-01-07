@@ -6,12 +6,11 @@ A (professional) photo of yourself (you can save the file in the repository next
 
 "Me, in one sentence" (as a smaller header)
 
-A table with the following structure:
 
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+| Birthday     | 28/06 |
+| Favorite color      | Blue      |
+| Favorite food | none      |
+| Pinneapple on pizza     |[ ] Yes / [x] NO |
 
 Hobbies (smaller header)
 
