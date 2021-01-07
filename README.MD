@@ -1,8 +1,8 @@
 # Chardome Thomas
 
 *"There Are No Limits To What You Can Accomplish, Except The Limits You Place On Your Own Thinking."*
-
-A (professional) photo of yourself (you can save the file in the repository next to the README file)
+test
+!Photo(https://github.com/ChardomeThomas/markdown-challenge/blob/master/78704128_10221566978748515_2228737574472515584_n.jpg "Photo temporaire")
 
 "Me, in one sentence" (as a smaller header)
 | Question  | Answer |
