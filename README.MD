@@ -10,7 +10,7 @@ A (professional) photo of yourself (you can save the file in the repository next
 | Birthday     | 28/06 |
 | Favorite color      | Blue      |
 | Favorite food | none      |
-| Pinneapple on pizza     |[ ] Yes / [x] NO |
+| Pinneapple on pizza     | - [ ] Yes / - [x] NO |
 
 ### Hobbies (smaller header)
 * music
@@ -19,12 +19,12 @@ A (professional) photo of yourself (you can save the file in the repository next
 * airsoft
 * playing video games
 
-You can always count on me when... (smaller header)
+#### You can always count on me when...
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+You need to talk or you need help
 
-A funny story (smaller header)
+##### C'est l'histoire d'un pingouin qui respirait par les fesses. Un jour il s'assoie et meurt.
+
 
 Tell a short funny story about your life.
 
