@@ -1,6 +1,6 @@
-Your Name (as a large header)
+# H1 Chardome Thomas
 
-An inspirational quote in italics
+*test*
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
