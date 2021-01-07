@@ -2,7 +2,7 @@
 
 *"There Are No Limits To What You Can Accomplish, Except The Limits You Place On Your Own Thinking."*
 
-!Photo(https://github.com/ChardomeThomas/markdown-challenge/blob/master/78704128_10221566978748515_2228737574472515584_n.jpg "Photo temporaire")
+!Photo(https://github.com/ChardomeThomas/markdown-challenge/blob/master/78704128_10221566978748515_2228737574472515584_n.jpg)
 
 "Me, in one sentence" (as a smaller header)
 | Question  | Answer |
