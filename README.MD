@@ -1,6 +1,6 @@
-# H1 Chardome Thomas
+# Chardome Thomas
 
-*test*
+*"There Are No Limits To What You Can Accomplish, Except The Limits You Place On Your Own Thinking."*
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
