@@ -12,10 +12,12 @@ A (professional) photo of yourself (you can save the file in the repository next
 | Favorite food | none      |
 | Pinneapple on pizza     |[ ] Yes / [x] NO |
 
-Hobbies (smaller header)
-
-This should contain a bullet list of your hobbies
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+### Hobbies (smaller header)
+* music
+  * playing
+  * listening
+* airsoft
+* playing video games
 
 You can always count on me when... (smaller header)
 
