@@ -10,7 +10,7 @@ A (professional) photo of yourself (you can save the file in the repository next
 | Birthday     | 28/06 |
 | Favorite color      | Blue      |
 | Favorite food | none      |
-| Pinneapple on pizza     |- [ ] Yes /- [x] NO |
+| Pinneapple on pizza     |[checkbox:unchecked] Yes /[checkbox:checked] NO |
 
 ### Hobbies (smaller header)
 * music
