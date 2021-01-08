@@ -2,7 +2,7 @@
 
 *"There Are No Limits To What You Can Accomplish, Except The Limits You Place On Your Own Thinking."*
 
-![Photo](photo.jpeg)
+![Photo](photo.jpg)
 
 "Me, in one sentence" (as a smaller header)
 | Question  | Answer |
