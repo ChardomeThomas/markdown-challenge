@@ -26,15 +26,4 @@ You need to talk or you need help
 ##### C'est l'histoire d'un pingouin qui respirait par les fesses. Un jour il s'assoie et meurt.
 
 
-Tell a short funny story about your life.
-
-TL;DR (even smaller header, under funny story)
-
-Summarise your funny story in one short sentence.
-
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
-
-<< previous || YOUR NAME || next >>
+<< [tariq selawi](https://github.com/Tselawi/markdown-challenge) || Thomas Chardome || [Szobonya Tomi](https://github.com/szobonyatomi/markdown-challenge) >>
