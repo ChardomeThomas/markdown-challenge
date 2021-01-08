@@ -28,3 +28,5 @@ You need to talk or you need help
 ###### tl:dr
 
 << [tariq selawi](https://github.com/Tselawi/markdown-challenge) || Thomas Chardome || [Szobonya Tomi](https://github.com/szobonyatomi/markdown-challenge) >>
+
+[![Alt text]](https://twitter.com/i/status/1225313450320171010)
